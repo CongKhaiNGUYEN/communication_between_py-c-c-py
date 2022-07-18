@@ -4,7 +4,7 @@
 `
 gcc peer.c -o peer -pthread
 `
-## how to communicate
+## how to make communication
 ### on first computer
 `
 python3 py.py
