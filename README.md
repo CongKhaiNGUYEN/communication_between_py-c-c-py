@@ -9,6 +9,7 @@ gcc peer.c -o peer -pthread
 `
 python3 py.py
 `
+<br />
 `
 ./peer
 `
@@ -17,6 +18,7 @@ python3 py.py
 `
 python3 py.py
 `
+<br />
 `
 ./peer
 `
